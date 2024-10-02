@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/student-registration-form/static/css/main.dbad0f05.css",
+    "main.js": "/student-registration-form/static/js/main.b5e79133.js",
+    "static/js/453.5d89cee3.chunk.js": "/student-registration-form/static/js/453.5d89cee3.chunk.js",
+    "index.html": "/student-registration-form/index.html",
+    "main.dbad0f05.css.map": "/student-registration-form/static/css/main.dbad0f05.css.map",
+    "main.b5e79133.js.map": "/student-registration-form/static/js/main.b5e79133.js.map",
+    "453.5d89cee3.chunk.js.map": "/student-registration-form/static/js/453.5d89cee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbad0f05.css",
+    "static/js/main.b5e79133.js"
+  ]
+}
