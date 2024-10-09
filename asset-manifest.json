@@ -1,21 +1,15 @@
 {
   "files": {
     "main.css": "/student-registration-form/static/css/main.dbad0f05.css",
-    "main.js": "/student-registration-form/static/js/main.4099f961.js",
-    "static/js/239.1cbcf365.chunk.js": "/student-registration-form/static/js/239.1cbcf365.chunk.js",
-    "static/js/213.cd33c192.chunk.js": "/student-registration-form/static/js/213.cd33c192.chunk.js",
-    "static/js/732.5a3f1cc5.chunk.js": "/student-registration-form/static/js/732.5a3f1cc5.chunk.js",
-    "static/js/453.55cc3f1b.chunk.js": "/student-registration-form/static/js/453.55cc3f1b.chunk.js",
+    "main.js": "/student-registration-form/static/js/main.624955eb.js",
+    "static/js/453.a24132cc.chunk.js": "/student-registration-form/static/js/453.a24132cc.chunk.js",
     "index.html": "/student-registration-form/index.html",
     "main.dbad0f05.css.map": "/student-registration-form/static/css/main.dbad0f05.css.map",
-    "main.4099f961.js.map": "/student-registration-form/static/js/main.4099f961.js.map",
-    "239.1cbcf365.chunk.js.map": "/student-registration-form/static/js/239.1cbcf365.chunk.js.map",
-    "213.cd33c192.chunk.js.map": "/student-registration-form/static/js/213.cd33c192.chunk.js.map",
-    "732.5a3f1cc5.chunk.js.map": "/student-registration-form/static/js/732.5a3f1cc5.chunk.js.map",
-    "453.55cc3f1b.chunk.js.map": "/student-registration-form/static/js/453.55cc3f1b.chunk.js.map"
+    "main.624955eb.js.map": "/student-registration-form/static/js/main.624955eb.js.map",
+    "453.a24132cc.chunk.js.map": "/student-registration-form/static/js/453.a24132cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbad0f05.css",
-    "static/js/main.4099f961.js"
+    "static/js/main.624955eb.js"
   ]
 }
