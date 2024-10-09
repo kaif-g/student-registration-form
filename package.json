@@ -1,5 +1,6 @@
 {
-  "name": "project-3",
+  "homepage": "https://kaif-g.github.io/student-registration-form",
+  "name": "student",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,13 +9,17 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.2",
     "bootstrap": "^5.3.3",
+    "jspdf": "^2.5.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.23.1",
-    "react-scripts": "^5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-router-dom": "^6.24.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4",
+    "gh-pages": "^3.2.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
